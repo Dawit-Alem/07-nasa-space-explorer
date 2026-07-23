@@ -19,7 +19,7 @@ const closeModal = document.getElementById("closeModal");
 setupDateInputs(startInput, endInput);
 
 // NASA API Key
-const API_KEY = "DEMO_KEY";
+const API_KEY = "tHnUE3reNqDEwNw2j0VRniRz39L0foMi9IQLHrZ6";
 
 // Space facts
 const facts = [
